@@ -8,7 +8,7 @@ int main()
     string answer;
     
     cout << "PESQUISA" << endl;
-    cout << "Programa criado para calcular a media de quantas pessoas falam ingles." << endl;
+    cout << "Programa criado para calcular a porcentagem de quantas pessoas no total falam ou nao falam ingles." << endl;
     cout << "Insira com quantas pessoas deseja fazer a pesquisa (s para sim e n para nao): ";
     cin >> input;
     
