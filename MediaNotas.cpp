@@ -14,7 +14,7 @@ int main()
     for (int i = 0; i < n; i++) {
         cout << "Insira uma nota: ";
         cin >> nota;
-        somN += nota;
+        somaN += nota;
         soma += 1;
     }
     media = somaN / soma;
