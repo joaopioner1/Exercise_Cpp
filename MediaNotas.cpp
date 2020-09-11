@@ -18,5 +18,6 @@ int main()
         soma += 1;
     }
     media = somaN / soma;
+    cout << "Media total = " << media << endl;
     return 0;
 }
